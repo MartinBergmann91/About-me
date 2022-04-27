@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M1ouM1ou
-- 👀 I’m interested in Data Analytics and Data Science
+- 👀 I’m interested in Data Analytics and Data Engineering
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: martin.bergmann91@gmx.de
 
