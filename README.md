@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M1ouM1ou
+- 👋 Hi, I’m Martin 
 - 👀 I’m interested in Data Analytics and Data Engineering
-- 🌱 I’m a Data Analyst that is currently making the switch to Data Engineering
+- 🌱 I’m a Data Analyst that is currently making the switch to Analytics/Data Engineering
 - 📫 How to reach me: martin.bergmann91@gmx.de
 
 <!---
